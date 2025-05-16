@@ -16,5 +16,5 @@ This repository is a growing collection of Jupyter Notebooks covering essential 
 
 ---
 
-This repository is intended as a learning resource and portfolio showcasing skills and projects in Data Science.
+This repository is intended as a learning resource and portfolio showcasing concepts and projects in Data Science.
 
