@@ -1,4 +1,4 @@
-# Data Science Ecosystem
+# Data Science Overview
 
 This repository is a growing collection of Jupyter Notebooks covering essential concepts, tools, and projects in Data Science.
 
